@@ -1,4 +1,4 @@
-// To see the output easier in your VS code terminal you can download an extension called "Code Runer".
+// To see the output easier in your VS code terminal you can download an extension called "Code Runner".
 // After that, just right click this file and choose "Run Code"
 
 const sortArray = require("../sort-array");
