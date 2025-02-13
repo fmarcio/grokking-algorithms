@@ -8,15 +8,15 @@ This repository is organized into folders by chapters of the book. Each chapter 
 
 To run the tests, simply execute `npm run test` in your terminal from the project’s root directory.
 
-Test files are named like `(file name).test.js`
+Test files are named like `{FILE_NAME}.test.js`
 
 # Check results in VS Code output tab
 
 The run code files provide a quick way to view code output directly in your VS Code output tab, so you don’t need to use the browser console. For easier execution, you can download the **Code Runner** extension by Jun Han, right click in the file and choose `Run code`.
 
-Run code files are named like `(file name)-run.js`
+Run code files are named like `{FILE_NAME}-run.js`
 
-# How to download project and install dependencies
+# How to download the project and install dependencies
 
 In your terminal, run:
 

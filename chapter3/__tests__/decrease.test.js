@@ -1,4 +1,4 @@
-const decrease = require("../decrease"); // Assuming recursion.js is in the same directory
+const decrease = require("../decrease");
 
 describe("decrease", () => {
   it("should decrease the number and print each value until reaching the base case", () => {
